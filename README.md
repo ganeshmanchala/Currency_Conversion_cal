@@ -9,4 +9,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # Currency_Conversion_cal
+This is used to convert the one country currency into another country. To calculate it we used the API call. The API call use handed using React.Which makes it Single Page Application and Component rendering.
+ 
 >>>>>>> origin/main
